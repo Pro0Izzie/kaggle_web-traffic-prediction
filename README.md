@@ -1,3 +1,4 @@
 # kaggle_web-traffic-prediction
 
-web traffic prediction competition with Prophet in kaggle
+Kaggle web traffic prediction competition starts at July 18 2017. 
+Using Facebook prophet module to predict.
